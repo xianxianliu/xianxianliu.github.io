@@ -1,0 +1,72 @@
+*{
+	margin: 0px;
+	padding: 0px;
+	margin: 0 auto;
+}
+html,body{
+	width: 100%;
+	height: 100%;
+	background: #000100;
+
+
+}
+.container{
+	width: 612px;
+	height: 814px;
+	background: #e5cac3;
+	position: relative;
+}
+.jian-li{
+	width: 100%;
+	height:105px;
+}
+.jian-li span{
+	padding: 123px 0px 0px 165px;
+	color: #918376;
+	font-weight: bolder;
+}
+.re{
+	position: relative;
+	padding: 26px 0px 0px 100px;
+	color: #a56158;
+	font-size: 55px;
+}
+.ab{
+	position: absolute;
+	top:6px;
+	color: #c7aea9;
+	padding: 26px 0px 0px 106px;
+	font-size: 55px;
+}
+.zi-liao{
+	width: 480px;
+
+}
+.zi-liao span{
+	padding:5px 300px 5px 56px;
+	color: #8f7574;
+	font-size: 23px;
+	font-weight: bolder;
+	line-height: 40px;
+	height: 120px;
+	background: #fff;
+}
+ul {
+	padding-left: 20px;
+	padding-bottom: 10px;
+}
+ul li{
+	list-style: none;
+	line-height: 24px;
+	font-size: 13px;
+	color: #513d34;
+	font-weight: bolder;
+}
+.img{
+	width: 119px;
+	height: 156px;
+	position: absolute;
+	top: 65px;
+	left: 394px;
+	box-shadow: 2px 2px 6px #181617;
+}
